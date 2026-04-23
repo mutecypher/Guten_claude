@@ -136,6 +136,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# Configuration files - keep these local only
+/config.py
+
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
